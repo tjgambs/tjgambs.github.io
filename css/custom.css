@@ -5,6 +5,12 @@
 .navbar {
 	background:#000000;
 }
+.carousel-inner img {
+  margin: auto;
+}
+.carousel-control.right, .carousel-control.left {
+  	background-image:none;
+}
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
