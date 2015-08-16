@@ -10,7 +10,7 @@ p
 }
 h2
 {
-	color:#636363;
+	color:#b30027;
 	font-size:175%;
 	line-height:1.5;
 	margin:.53em 0;
@@ -125,7 +125,7 @@ body>svg
 .page__nav
 {
 	padding:0;
-	background:#4f4f4f;
+	background:#980013;
 	color:#fff;
 	margin:-1.1rem 0;
 }
@@ -137,7 +137,7 @@ body>svg
 .page__header
 {
 	padding:6% 0;
-	background:#636363;
+	background:#b30027;
 }
 .page__title
 {
@@ -173,7 +173,7 @@ body>svg
 }
 .page__content a:not(.button)
 {
-	color:#636363;
+	color:#b30027;
 }
 .page__content--alt h2
 {
@@ -190,7 +190,6 @@ body>svg
 }
 .work h2
 {
-	color:#444;
 	padding-bottom:.25em;
 	border-bottom:1px solid #ccc
 }
