@@ -1,0 +1,11 @@
+# applies pretty for all
+permalink: pretty
+
+# overrides permalink for posts
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:year/:month/:day/:title/
